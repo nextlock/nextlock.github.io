@@ -1,18 +1,18 @@
 # Site settings
 title: BY Blog
 SEOTitle: 下锁的博客 | nextlock's Blog
-header-img: s1.ax1x.com/2020/08/15/dAnSf0.jpg
-email: qiubaiying@gmail.com
+header-img: https://s1.ax1x.com/2020/09/18/w4fqUA.jpg
+email: nextlock@qq.com
 description: "Blog"
-keyword: "BY, BY Blog, 柏荧的博客, qiubaiying, 邱柏荧, iOS, Apple, iPhone"
+keyword: "nextlock"
 url: "http://nextlock.github.io/"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "思想存在"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: ""
+sidebar-avatar:       # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -78,7 +78,7 @@ ba_track_id: b50bf2b12b5338a1845e33832976fd68
 
 # Google Analytics
 ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
-ga_domain: qiubaiying.top               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
+ga_domain: auto               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
 
